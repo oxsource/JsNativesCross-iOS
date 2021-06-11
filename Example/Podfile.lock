@@ -1,0 +1,16 @@
+PODS:
+  - JsNativesCross (0.1.0)
+
+DEPENDENCIES:
+  - JsNativesCross (from `../`)
+
+EXTERNAL SOURCES:
+  JsNativesCross:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JsNativesCross: 8ca78501b63d0bb5daac188b7d95a6402244db8c
+
+PODFILE CHECKSUM: dd2391c75d49f0ed0c30c8b5e0315e0e11933e8c
+
+COCOAPODS: 1.10.1

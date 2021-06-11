@@ -22,7 +22,7 @@ pod 'JsNativesCross'
 
 ## Author
 
-726676435@qq.com, 726676435@qq.com
+Moks
 
 ## License
 
