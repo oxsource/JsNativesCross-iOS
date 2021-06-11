@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JsNativesCross_Example' do
+  pod 'JsNativesCross', :path => '../'
+
+  target 'JsNativesCross_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
